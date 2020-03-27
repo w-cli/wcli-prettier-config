@@ -1,0 +1,16 @@
+{
+  "name": "@wcli/prettier-config",
+  "prettierOptions": "https://prettier.io/docs/en/options.html",
+  "version": "0.0.1",
+  "description": "wcli prettier config",
+  "keywords": [
+    "wcli",
+    "prettier config"
+  ],
+  "main": "index.json",
+  "author": "onfuns <wanrenya@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
