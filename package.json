@@ -1,7 +1,7 @@
 {
   "name": "@wcli/prettier-config",
   "prettierOptions": "https://prettier.io/docs/en/options.html",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "wcli prettier config",
   "keywords": [
     "wcli",
