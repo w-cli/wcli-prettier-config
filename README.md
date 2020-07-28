@@ -1,13 +1,13 @@
-# `@frontend-cli/prettier-config`
+# `@wcli/prettier-config`
 
-> frontend-cli [Prettier](https://prettier.io) config.
+> wcli [Prettier](https://prettier.io) config.
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ npm install @frontend-cli/prettier-config --save-dev
+$ npm install @wcli/prettier-config --save-dev
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ npm install @frontend-cli/prettier-config --save-dev
 ```jsonc
 {
   // ...
-  "prettier": "@frontend-cli/prettier-config"
+  "prettier": "@wcli/prettier-config"
 }
 ```
